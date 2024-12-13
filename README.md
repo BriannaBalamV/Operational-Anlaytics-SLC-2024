@@ -11,10 +11,13 @@ Python Scripts: Automation and data processing scripts.
 
 ## Recent Updates
 
-Odoo CRM connector and email sender: Integrates with Odoo CRM and automates email sending.
-Control charts final project: Analyzes control charts for quality control.
-Exploring consumer feedback: Analyzes Amazon reviews for consumer feedback.
-Identifying quality characteristics: Identifies key quality characteristics from data.
-Amazon review scraper: Scrapes reviews from Amazon for analysis.
+\begin{itemize}
+    \item \textbf{Odoo CRM connector and email sender:} Integrates with Odoo CRM and automates email sending.
+    \item \textbf{Control charts final project:} Analyzes control charts for quality control.
+    \item \textbf{Exploring consumer feedback:} Analyzes Amazon reviews for consumer feedback.
+    \item \textbf{Identifying quality characteristics:} Identifies key quality characteristics from data.
+    \item \textbf{Amazon review scraper:} Scrapes reviews from Amazon for analysis.
+\end{itemize}
+
 
 
